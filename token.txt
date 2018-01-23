@@ -1,0 +1,8 @@
+xoxb-303657438502-FlvMVnXCwlxi61FmIBx5QrWp
+
+
+
+curl \
+ -H 'Authorization: Bearer LVGMES2BITPABRRJ5SULTXA2LTU2HQSE' \
+ 'https://api.wit.ai/message?v=20180122&q='
+
